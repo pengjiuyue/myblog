@@ -1,10 +1,9 @@
 http://pengjiuyue.github.io/photos/index.html
+http://pengjiuyue.github.io/photos/jiuyue/index.html
 http://pengjiuyue.github.io/post/38433.html
 http://pengjiuyue.github.io/post/60947.html
 http://pengjiuyue.github.io/coments/index.html
 http://pengjiuyue.github.io/categories/index.html
 http://pengjiuyue.github.io/about/index.html
-http://pengjiuyue.github.io/photos/index.html
 http://pengjiuyue.github.io/link/index.html
-http://pengjiuyue.github.io/photos/data.json
 http://pengjiuyue.github.io/
