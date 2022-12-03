@@ -4,16 +4,61 @@
   <url>
     <loc>http://pengjiuyue.github.io/photos/index.html</loc>
     
-    <lastmod>2022-12-02</lastmod>
+    <lastmod>2022-12-03</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://pengjiuyue.github.io/photos/jiuyue/index.html</loc>
+    <loc>http://pengjiuyue.github.io/photos/%E7%8E%96%E6%82%A6/%E4%B8%80%E5%91%A8%E5%B2%81/index.html</loc>
     
-    <lastmod>2022-12-01</lastmod>
+    <lastmod>2022-12-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://pengjiuyue.github.io/photos/%E7%8E%96%E6%82%A6/%E4%BA%8C%E5%91%A8%E5%B2%81/index.html</loc>
+    
+    <lastmod>2022-12-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://pengjiuyue.github.io/photos/%E7%8E%96%E6%82%A6/index.html</loc>
+    
+    <lastmod>2022-12-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://pengjiuyue.github.io/photos/%E7%8E%96%E6%82%A6/%E6%BB%A1%E6%9C%88/index.html</loc>
+    
+    <lastmod>2022-12-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://pengjiuyue.github.io/photos/%E7%8E%96%E6%82%A6/%E7%A0%B4%E5%A3%B3%E6%97%A5/index.html</loc>
+    
+    <lastmod>2022-12-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://pengjiuyue.github.io/photos/custom.css</loc>
+    
+    <lastmod>2022-12-02</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -76,7 +121,7 @@
 
   <url>
     <loc>http://pengjiuyue.github.io/</loc>
-    <lastmod>2022-12-02</lastmod>
+    <lastmod>2022-12-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>

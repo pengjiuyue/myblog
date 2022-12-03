@@ -1,5 +1,10 @@
 http://pengjiuyue.github.io/photos/index.html
-http://pengjiuyue.github.io/photos/jiuyue/index.html
+http://pengjiuyue.github.io/photos/%E7%8E%96%E6%82%A6/%E4%B8%80%E5%91%A8%E5%B2%81/index.html
+http://pengjiuyue.github.io/photos/%E7%8E%96%E6%82%A6/%E4%BA%8C%E5%91%A8%E5%B2%81/index.html
+http://pengjiuyue.github.io/photos/%E7%8E%96%E6%82%A6/index.html
+http://pengjiuyue.github.io/photos/%E7%8E%96%E6%82%A6/%E6%BB%A1%E6%9C%88/index.html
+http://pengjiuyue.github.io/photos/%E7%8E%96%E6%82%A6/%E7%A0%B4%E5%A3%B3%E6%97%A5/index.html
+http://pengjiuyue.github.io/photos/custom.css
 http://pengjiuyue.github.io/post/38433.html
 http://pengjiuyue.github.io/post/60947.html
 http://pengjiuyue.github.io/coments/index.html
